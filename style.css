@@ -1,3 +1,11 @@
 body{
   background-color: #162534;
 }
+.feature{
+  padding-bottom: 50px;
+  align-items: center;
+}
+.feature1{
+  display: flex;
+  justify-content: 0;
+}
