@@ -26,11 +26,15 @@ h1{
 .caption p{
   text-align: center;
   color: white;
-  text-size: 50px;
+  text-size: 80px;
 }
 h2{
   text-align: center;
-  text-size: 70px;
+  text-size: 90px;
   color: white;
+}
+.footer{
+  align-items: center;
+  padding-bottom: 10px;
 }
   
