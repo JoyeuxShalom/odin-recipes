@@ -33,16 +33,9 @@ h2{
   text-size: 90px;
   color: white;
 }
-footer{
-   height: 75px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    background-color: #1F2937;
-}
 span{
    padding-bottom: 20px;
-    color: #E5E7EB;
+    text-align: center;
     margin-left: 200px;
 }
   
