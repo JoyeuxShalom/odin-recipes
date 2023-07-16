@@ -33,13 +33,14 @@ h2{
   text-size: 90px;
   color: white;
 }
-.footer{
-  align-items: center;
-   padding-bottom: 10px;
-    color: #E5E7EB;
-    margin-left: 200px;
+footer{
+   height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: #1F2937;
 }
-.footer span{
+footer span{
    padding-bottom: 20px;
     color: #E5E7EB;
     margin-left: 200px;
